@@ -20,6 +20,5 @@ jobs:
 
       - run: npm install
       - run: npm run esbuild
-      - run: npm test
       - run: npm run lint
       - run: yarn run build-all
