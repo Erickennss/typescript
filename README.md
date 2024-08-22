@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TypeScript build first time
 
 ## 这是在 2021 年使用现代工具启动 TypeScript 项目的指南。
@@ -49,4 +49,4 @@ git init
 git add .
 git commit -am "initial commit"
 ```
->>>>>>> 405141890da712f58f26a1c1a235cb3861adb984
+
